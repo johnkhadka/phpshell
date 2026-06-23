@@ -11,7 +11,7 @@
 <body class="bg-dark text-white">
     <header class="bg-primary text-white p-3">
         <div class="container">
-            <h2 class="mb-0">John's PHP Shell</h2>
+            <h2 class="mb-0">John Khadka's PHP Shell</h2>
         </div>
     </header>
     <main class="container mt-4">
