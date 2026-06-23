@@ -15,7 +15,6 @@
         </div>
     </header>
     <main class="container mt-4">
-        <form>
             <div class="col-md-6 offset-md-3">
                 <form method="POST" action="" clsaa="col">
                     <div class="input-group mb-3">
@@ -26,7 +25,6 @@
                 </form>
 
             </div>
-        </form>
     </main>
     <div class="container">
         <?php
